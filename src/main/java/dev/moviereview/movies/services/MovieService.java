@@ -1,2 +1,4 @@
-package dev.moviereview.movies.services;public class MovieService {
+package dev.moviereview.movies.services;
+
+public class MovieService {
 }
